@@ -34,7 +34,8 @@ Aplikasi ini melakukan manipulasi data menggunakan Python dan Pandas untuk mengg
 ## Penggunaan
 Pastikan file CSV transaksi dari cabang-cabang toko sudah berada di dalam direktori datasets/.
 Jalankan skrip Python app.py untuk menjalankan aplikasi:
-      ```python app.py
+
+      python app.py
 
 Skrip ini akan menggabungkan semua file CSV, membersihkan data, menghitung total penjualan per cabang, dan menyimpan hasilnya dalam file total_sales_per_branch.csv.
 
