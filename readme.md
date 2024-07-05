@@ -4,12 +4,12 @@ Aplikasi ini melakukan manipulasi data menggunakan Python dan Pandas untuk mengg
 
 ## Struktur Proyek
 
-├── app.py
-├── datasets
-│ ├── branch_a.csv
-│ ├── branch_b.csv
-│ └── branch_c.csv
-└─ requirements.txt
+      ├── app.py
+      ├── datasets
+      │ ├── branch_a.csv
+      │ ├── branch_b.csv
+      │ └── branch_c.csv
+      └─ requirements.txt
 
 
 
@@ -28,9 +28,9 @@ Aplikasi ini melakukan manipulasi data menggunakan Python dan Pandas untuk mengg
    cd nama-repositori 
 3. Instal pustaka yang diperlukan menggunakan pip, dengan menjalankan perintah berikut:
 
-bash
-Copy code
-pip install -r requirements.txt
+   ``` bash
+   Copy code
+   pip install -r requirements.txt
 ## Penggunaan
 Pastikan file CSV transaksi dari cabang-cabang toko sudah berada di dalam direktori datasets/.
 Jalankan skrip Python app.py untuk menjalankan aplikasi:
